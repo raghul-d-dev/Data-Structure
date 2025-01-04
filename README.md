@@ -1,2 +1,3 @@
 # Data Structure
- This is data structure problem which i have practice so for
+ These folder contains the Data Structure Problem solved by me from geeks of geeks and other sources
+ all for interview preparation purposes
